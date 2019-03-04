@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        
+<title>Insert title here</title>
+<style>
+    body{
+        background-color: cadetblue;
+    }
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;}
+  .table th {
+    text-align: center;
+}
+
+.d-block  {
+  -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
+  filter: blur(5px);
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-emphasis-position: center;
+}
+</style>
+ <link rel="stylesheet" href="C:\Users\Training\eclipse-workspace\HtmlDemo\css\bootstrap.min.css">
+</head>
+<body>
+<body >
+<div class="jumbotron-fluid">
+
+  	<div class="container-fliud">
+
+  	    
+           <img src="img/city.jpg" class="d-block w-200 p-3"   alt="Second slide" class="img-fluid img-max-width: 100%;">
+
+            <div class="centered">NIIT TECHNOLOGIES</div>
+         
+    </div>
+</div>
+
+ <div class="table-responsive-md" align="center">          
+  <table class="table-bordered">
+    <thead>
+      <tr><th>
+       <img src="img/fligh4.jpg"class="float-left"class="d-block w-100" width="500" height="500"  alt="Second slide" class="img-fluid">
+       </th>
+     
+      <th>
+        <img src="img/flight3.jpg" class="float-center" class="d-block w-100" width="500" height="500"  alt="Second slide" class="img-fluid">
+        </th>
+        <th>
+                <div class="btn-group-vertical">
+        <input type="btn-group btn-group-lg" class="button" value="Input Button"><br>
+        <input type="btn-group btn-group-lg" class="button" value="Input Button"><br>
+        <input type="btn-group btn-group-lg" class="button" value="Input Button"><br>
+        <input type="btn-group btn-group-lg" class="button" value="Input Button">
+     </div>   
+        
+        
+        
+        </th>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+</div>
+
+ 	
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</body>
+</html>
