@@ -12,20 +12,11 @@
     <style>
 
       
-
-    html { 
-
-background-image: url("C:\Users\Training\eclipse-workspace\HtmlDemo\WebContent\image2.jpg") no-repeat center center fixed; 
-
--webkit-background-size: cover;
-
--moz-background-size: cover;
-
--o-background-size: cover;
-
-background-size: cover;
-
+body{
+    background-image: url("C:\Users\Training\eclipse-workspace\HtmlDemo\WebContent\image2.jpg");
+    background-size: 100%;
 }
+   
 .navbar{background:#F97300}
 .container-fluid {
 
