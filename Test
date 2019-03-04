@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+
+</style>
+</head>
+<body>
+
+<h2>Demonstrating the Box Model</h2>
+
+<body bgcolor="green">
+
+<div>
+
+<img src="C:\Users\Training\eclipse-workspace\HtmlDemo\WebContent\rur.jpg" class="d-block w-100" width="1035" height="236"  alt="Second slide" class="img-fluid">
+</div>
+
+
+<div>Award winning accomodation,self catering or bed and breakfast</div>
+
+<div class=="container">
+<div class="row">
+<div class="col-md-4">
+<img src="C:\Users\Training\eclipse-workspace\HtmlDemo\WebContent\rur.jpg" class="d-block w-100" width="300" height="300"  alt="Second slide" class="img-fluid"" width="350" height="263" alt="Klematis" >
+</div>
+<div class="col-md-4">
+<img src="C:\Users\Training\eclipse-workspace\HtmlDemo\WebContent\rur.jpg" class="d-block w-100" width="300" height="300"  alt="Second slide" class="img-fluid"" width="350" height="263" alt="Klematis">
+</div>
+<div class="col-md-4">
+<button type="button" onclick="alert('Hello world!')">Click Me!</button><br>
+<button type="button" onclick="alert('Hello world!')">Click Me!</button><br>
+<button type="button" onclick="alert('Hello world!')">Click Me!</button>
+
+</div></div>
+</div>
+
+
+
+
+
+
+
+</body>
+</html>
