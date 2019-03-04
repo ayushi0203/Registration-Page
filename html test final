@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style>
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+</style>
+ <link rel="stylesheet" href="C:\Users\Training\eclipse-workspace\HtmlDemo\css\bootstrap.min.css">
+</head>
+<body>
+<body bgcolor="green">
+<div class="jumbotron">
+
+  	<div class="container">
+
+  	<div class="row">
+<img src="C:\Users\Ayushi\Documents\eclipseEEworkspace\CrePa\WebContent\f.jpg" class="d-block w-100" width="1025" height="236"  alt="Second slide" class="img-fluid">
+
+  		<h1>NIIT TECHNOLOGIES!!!!</h1>
+</div>
+</div></div>
+
+ <div class="table-responsive">          
+  <table class="table">
+    <thead>
+      <tr><th>
+       <img src="C:\Users\Ayushi\Documents\eclipseEEworkspace\CrePa\WebContent\f.jpg" class="d-block w-100" width="325" height="236"  alt="Second slide" class="img-fluid">
+       </th>
+     
+      <th>
+        <img src="C:\Users\Ayushi\Documents\eclipseEEworkspace\CrePa\WebContent\f.jpg" class="d-block w-100" width="325" height="236"  alt="Second slide" class="img-fluid">
+        </th>
+        <th>
+        <button>Default Button</button><br>
+<a href="#" class="button">Link Button</a><br>
+<button class="button">Button</button><br>
+<input type="button" class="button" value="Input Button">
+        
+        
+        
+        
+        </th>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+</div>
+
+ 	
+
+
+
+</body>
+</html>
